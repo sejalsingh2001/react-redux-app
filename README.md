@@ -1,2 +1,2 @@
 # react-redux-app
-we app created using ReactJS
+web app created using ReactJS
